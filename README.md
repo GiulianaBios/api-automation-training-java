@@ -64,7 +64,7 @@ Before starting each milestone, create a feature branch with the name of the mil
     BASEURL=https://restful-booker.herokuapp.com
     ```
 4. Explore the framework:
-    - Read the [API Automation Framework](https://github.com/damianpereira86/api-automation-training/tree/main/framework#readme) Readme. <font color="red">AJUSTAR CUANDO TENGAMOS EL README MISMO DEL FRAMEWORK PRONTO</font>
+    - Read the [API Automation Framework](https://github.com/GiuliBentancor/api-automation-training-java/blob/main/framework/README.md) Readme.
     - Understand the `ServiceBase` class and its usage in service models.
 
 5. Create a new `BookingService` extending `ServiceBase`.
